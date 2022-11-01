@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gsap": "^3.11.3",
+    "ssr-window": "^4.0.2",
+    "swiper": "^8.4.4"
+  }
+}
